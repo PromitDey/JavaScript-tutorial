@@ -44,4 +44,7 @@ const myFunction = function(){
 consol.log(typeof(score)); //to find datatype of any variable we use the keyword "typeof"
 More about "typeof" - https://262.ecma-international.org/5.1/#sec-11.4.3
 
+Stack Memory is used for primitive datatypes
+Heap Memory is used for non-primitive datatypes
+
 */
